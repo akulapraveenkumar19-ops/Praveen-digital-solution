@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="coachBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c1e3d"/>
+      <stop offset="50%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#08142b"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="480" fill="url(#coachBg)"/>
+
+  <!-- Browser Header -->
+  <rect x="30" y="25" width="740" height="430" rx="16" fill="#0b1730" stroke="#1e3a8a" stroke-width="1.5"/>
+  <rect x="30" y="25" width="740" height="42" rx="16" fill="#070f21"/>
+  <circle cx="55" cy="46" r="5.5" fill="#ef4444"/>
+  <circle cx="72" cy="46" r="5.5" fill="#f59e0b"/>
+  <circle cx="89" cy="46" r="5.5" fill="#10b981"/>
+  <rect x="180" y="34" width="440" height="24" rx="6" fill="#172554" stroke="#1e3a8a" stroke-width="1"/>
+  <text x="400" y="50" font-family="'Inter', sans-serif" font-size="11" fill="#93c5fd" text-anchor="middle" font-weight="500">🔒 https://apex-academy-hyderabad.edu</text>
+
+  <!-- Website Navbar -->
+  <rect x="30" y="67" width="740" height="52" fill="#0f2147" stroke="#1e3a8a" stroke-width="1"/>
+  <circle cx="65" cy="93" r="14" fill="url(#blueGrad)"/>
+  <text x="65" y="98" font-size="14" text-anchor="middle">🎓</text>
+  <text x="90" y="97" font-family="'Inter', sans-serif" font-size="15" fill="#ffffff" font-weight="800">APEX <tspan fill="#38bdf8">ACADEMY</tspan></text>
+  <text x="90" y="108" font-family="'Inter', sans-serif" font-size="8" fill="#93c5fd" letter-spacing="1.5">IIT-JEE • NEET • FOUNDATION COURSES</text>
+
+  <text x="440" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#dbeafe">Courses</text>
+  <text x="510" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#dbeafe">Results 2025</text>
+  <text x="600" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#dbeafe">Faculty</text>
+
+  <rect x="665" y="80" width="90" height="26" rx="6" fill="url(#blueGrad)"/>
+  <text x="710" y="97" font-family="'Inter', sans-serif" font-size="10" fill="#ffffff" font-weight="800" text-anchor="middle">Admissions</text>
+
+  <!-- Hero Content -->
+  <g transform="translate(60, 145)">
+    <rect x="0" y="0" width="210" height="22" rx="11" fill="#1e3a8a" stroke="#3b82f6" stroke-width="1"/>
+    <text x="105" y="15" font-family="'Inter', sans-serif" font-size="9" fill="#bfdbfe" font-weight="700" text-anchor="middle">🏆 TOP RANKERS ACADEMY IN HYDERABAD</text>
+
+    <text x="0" y="48" font-family="'Inter', sans-serif" font-size="24" fill="#ffffff" font-weight="900">
+      Crack IIT-JEE &amp; NEET With
+    </text>
+    <text x="0" y="76" font-family="'Inter', sans-serif" font-size="24" fill="#38bdf8" font-weight="900">
+      Expert Faculty Guidance.
+    </text>
+
+    <text x="0" y="102" font-family="'Inter', sans-serif" font-size="11" fill="#93c5fd">
+      Small batch sizes, daily doubt sessions, comprehensive test series,
+    </text>
+    <text x="0" y="118" font-family="'Inter', sans-serif" font-size="11" fill="#93c5fd">
+      and personalized mentorship by senior IIT and AIIMS alumni.
+    </text>
+
+    <g transform="translate(0, 136)">
+      <rect x="0" y="0" width="150" height="38" rx="8" fill="url(#blueGrad)"/>
+      <text x="75" y="24" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="800" text-anchor="middle">📝 APPLY ADMISSION</text>
+
+      <rect x="160" y="0" width="140" height="38" rx="8" fill="#10b981"/>
+      <text x="230" y="24" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="800" text-anchor="middle">💬 WHATSAPP SYLLABUS</text>
+    </g>
+
+    <!-- 3 Course Cards -->
+    <g transform="translate(0, 192)">
+      <rect x="0" y="0" width="105" height="92" rx="8" fill="#172554" stroke="#1e3a8a" stroke-width="1"/>
+      <text x="12" y="20" font-size="14">⚡</text>
+      <text x="12" y="38" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">IIT-JEE Main</text>
+      <text x="12" y="52" font-family="'Inter', sans-serif" font-size="9" fill="#93c5fd">&amp; Advanced (2 Yr)</text>
+      <text x="12" y="70" font-family="'Inter', sans-serif" font-size="11" fill="#fde047" font-weight="800">Class 11 &amp; 12</text>
+      <text x="12" y="82" font-family="'Inter', sans-serif" font-size="8" fill="#4ade80">New Batch Starts</text>
+
+      <rect x="115" y="0" width="105" height="92" rx="8" fill="#172554" stroke="#1e3a8a" stroke-width="1"/>
+      <text x="127" y="20" font-size="14">🩺</text>
+      <text x="127" y="38" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">NEET UG</text>
+      <text x="127" y="52" font-family="'Inter', sans-serif" font-size="9" fill="#93c5fd">Medical Booster</text>
+      <text x="127" y="70" font-family="'Inter', sans-serif" font-size="11" fill="#fde047" font-weight="800">Rank Guarantee</text>
+      <text x="127" y="82" font-family="'Inter', sans-serif" font-size="8" fill="#4ade80">Daily Mock Tests</text>
+
+      <rect x="230" y="0" width="105" height="92" rx="8" fill="#172554" stroke="#1e3a8a" stroke-width="1"/>
+      <text x="242" y="20" font-size="14">🎯</text>
+      <text x="242" y="38" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">Foundation</text>
+      <text x="242" y="52" font-family="'Inter', sans-serif" font-size="9" fill="#93c5fd">Class 8, 9 &amp; 10</text>
+      <text x="242" y="70" font-family="'Inter', sans-serif" font-size="11" fill="#fde047" font-weight="800">NTSE / Olympiad</text>
+      <text x="242" y="82" font-family="'Inter', sans-serif" font-size="8" fill="#4ade80">Early Advantage</text>
+    </g>
+  </g>
+
+  <!-- Right Visual: Student Admission Card -->
+  <g transform="translate(470, 145)">
+    <rect x="0" y="0" width="270" height="280" rx="14" fill="#172554" stroke="#1e3a8a" stroke-width="1.5"/>
+    <rect x="15" y="15" width="240" height="135" rx="10" fill="#1e3a8a"/>
+    <circle cx="135" cy="70" r="32" fill="#3b82f6" opacity="0.6"/>
+    <text x="135" y="78" font-size="32" text-anchor="middle">🎓</text>
+    <text x="135" y="125" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="800" text-anchor="middle">98.4% SELECTIONS IN 2025</text>
+
+    <!-- Admission trigger -->
+    <rect x="15" y="160" width="240" height="50" rx="8" fill="#0c1e3d" stroke="#1e3a8a" stroke-width="1"/>
+    <text x="25" y="180" font-family="'Inter', sans-serif" font-size="10" fill="#38bdf8" font-weight="700">📍 Madhapur, Kukatpally &amp; Dilsukhnagar</text>
+    <text x="25" y="196" font-family="'Inter', sans-serif" font-size="9" fill="#93c5fd">Scholarship Test up to 100% Fee Waiver</text>
+
+    <g transform="translate(15, 220)">
+      <rect x="0" y="0" width="240" height="38" rx="8" fill="#10b981"/>
+      <text x="120" y="24" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="800" text-anchor="middle">💬 ENQUIRE ABOUT BATCH TIMINGS</text>
+    </g>
+  </g>
+</svg>

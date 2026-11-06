@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="salonBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#160d1f"/>
+      <stop offset="50%" stop-color="#24112e"/>
+      <stop offset="100%" stop-color="#0d0814"/>
+    </linearGradient>
+    <linearGradient id="pinkGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fde047"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b1d4a" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1e1026" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="480" fill="url(#salonBg)"/>
+
+  <!-- Browser Header -->
+  <rect x="30" y="25" width="740" height="430" rx="16" fill="#130b1c" stroke="#4c1d6b" stroke-width="1.5"/>
+  <rect x="30" y="25" width="740" height="42" rx="16" fill="#0b0610"/>
+  <circle cx="55" cy="46" r="5.5" fill="#ef4444"/>
+  <circle cx="72" cy="46" r="5.5" fill="#f59e0b"/>
+  <circle cx="89" cy="46" r="5.5" fill="#10b981"/>
+  <rect x="180" y="34" width="440" height="24" rx="6" fill="#1f112b" stroke="#3b1d4a" stroke-width="1"/>
+  <text x="400" y="50" font-family="'Inter', sans-serif" font-size="11" fill="#d8b4fe" text-anchor="middle" font-weight="500">🔒 https://glowtonefamilysalon.com</text>
+
+  <!-- Website Navbar -->
+  <rect x="30" y="67" width="740" height="52" fill="#1b0e26" stroke="#2d133f" stroke-width="1"/>
+  <!-- Salon Logo -->
+  <circle cx="65" cy="93" r="15" fill="url(#pinkGold)"/>
+  <text x="65" y="98" font-family="'Playfair Display', serif" font-size="14" fill="#ffffff" font-weight="900" text-anchor="middle">G</text>
+  <text x="90" y="97" font-family="'Inter', sans-serif" font-size="15" fill="#ffffff" font-weight="800">GLOW <tspan fill="#f472b6">TONE</tspan></text>
+  <text x="90" y="108" font-family="'Inter', sans-serif" font-size="8" fill="#e9d5ff" letter-spacing="2">LUXURY FAMILY SALON &amp; SPA</text>
+
+  <text x="420" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#f3e8ff">Hair Styling</text>
+  <text x="500" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#f3e8ff">Bridal Makeover</text>
+  <text x="600" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#f3e8ff">Skin &amp; Spa</text>
+
+  <rect x="670" y="80" width="85" height="26" rx="13" fill="url(#pinkGold)"/>
+  <text x="712" y="97" font-family="'Inter', sans-serif" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">Book Slot</text>
+
+  <!-- Hero Content -->
+  <g transform="translate(60, 145)">
+    <rect x="0" y="0" width="180" height="22" rx="11" fill="#4c0519" stroke="#be185d" stroke-width="1"/>
+    <text x="90" y="15" font-family="'Inter', sans-serif" font-size="9" fill="#fbcfe8" font-weight="700" text-anchor="middle">✨ PREMIER SALON IN HYDERABAD</text>
+
+    <text x="0" y="48" font-family="'Playfair Display', serif" font-size="25" fill="#ffffff" font-weight="800">
+      Elevate Your Beauty &amp;
+    </text>
+    <text x="0" y="78" font-family="'Playfair Display', serif" font-size="25" fill="url(#goldText)" font-weight="800">
+      Bridal Confidence.
+    </text>
+
+    <text x="0" y="104" font-family="'Inter', sans-serif" font-size="11" fill="#e9d5ff">
+      Expert stylists, organic skin therapies, keratin treatments,
+    </text>
+    <text x="0" y="120" font-family="'Inter', sans-serif" font-size="11" fill="#e9d5ff">
+      and VIP bridal packages designed for your special day.
+    </text>
+
+    <g transform="translate(0, 138)">
+      <rect x="0" y="0" width="150" height="38" rx="8" fill="url(#pinkGold)"/>
+      <text x="75" y="24" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="800" text-anchor="middle">📅 BOOK APPOINTMENT</text>
+
+      <rect x="160" y="0" width="140" height="38" rx="8" fill="#10b981"/>
+      <text x="230" y="24" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="800" text-anchor="middle">💬 WHATSAPP MENU</text>
+    </g>
+
+    <!-- 3 Service Feature Cards inside -->
+    <g transform="translate(0, 195)">
+      <!-- Card 1 -->
+      <rect x="0" y="0" width="105" height="90" rx="8" fill="url(#cardGrad2)" stroke="#701a75" stroke-width="1"/>
+      <text x="12" y="22" font-size="16">✂️</text>
+      <text x="12" y="42" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">Hair Botox</text>
+      <text x="12" y="58" font-family="'Inter', sans-serif" font-size="9" fill="#f472b6">&amp; Smoothening</text>
+      <text x="12" y="76" font-family="'Inter', sans-serif" font-size="11" fill="#fde047" font-weight="800">From ₹2,499</text>
+
+      <!-- Card 2 -->
+      <rect x="115" y="0" width="105" height="90" rx="8" fill="url(#cardGrad2)" stroke="#701a75" stroke-width="1"/>
+      <text x="127" y="22" font-size="16">💄</text>
+      <text x="127" y="42" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">Bridal HD</text>
+      <text x="127" y="58" font-family="'Inter', sans-serif" font-size="9" fill="#f472b6">Makeover VIP</text>
+      <text x="127" y="76" font-family="'Inter', sans-serif" font-size="11" fill="#fde047" font-weight="800">From ₹7,999</text>
+
+      <!-- Card 3 -->
+      <rect x="230" y="0" width="105" height="90" rx="8" fill="url(#cardGrad2)" stroke="#701a75" stroke-width="1"/>
+      <text x="242" y="22" font-size="16">✨</text>
+      <text x="242" y="42" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">Hydra Glow</text>
+      <text x="242" y="58" font-family="'Inter', sans-serif" font-size="9" fill="#f472b6">Korean Facial</text>
+      <text x="242" y="76" font-family="'Inter', sans-serif" font-size="11" fill="#fde047" font-weight="800">From ₹1,999</text>
+    </g>
+  </g>
+
+  <!-- Right Visual Showcase / Photo Mockup -->
+  <g transform="translate(470, 145)">
+    <rect x="0" y="0" width="270" height="280" rx="14" fill="#1f112b" stroke="#701a75" stroke-width="1.5"/>
+    
+    <!-- Salon Interior & Styling Illustration Banner -->
+    <rect x="15" y="15" width="240" height="150" rx="10" fill="#2d153d"/>
+    <!-- Decorative mirrors & lights -->
+    <circle cx="70" cy="75" r="35" fill="#3b1d4a" stroke="#ec4899" stroke-width="2"/>
+    <circle cx="170" cy="75" r="35" fill="#3b1d4a" stroke="#f59e0b" stroke-width="2"/>
+    <path d="M55 75 Q70 50 85 75 T115 75" fill="none" stroke="#fbcfe8" stroke-width="2"/>
+    <text x="120" y="130" font-family="'Inter', sans-serif" font-size="10" fill="#f472b6" font-weight="700" text-anchor="middle">MODERN SALON SUITE</text>
+    
+    <!-- Client Review Pill inside website -->
+    <rect x="15" y="175" width="240" height="42" rx="8" fill="#130b1c" stroke="#3b1d4a" stroke-width="1"/>
+    <text x="25" y="193" font-family="'Inter', sans-serif" font-size="10" fill="#fde047">⭐⭐⭐⭐⭐ 4.9 on Google (350+ Reviews)</text>
+    <text x="25" y="207" font-family="'Inter', sans-serif" font-size="9" fill="#d8b4fe">"Best bridal styling &amp; hair treatment in Hyderabad!"</text>
+
+    <!-- Address & Timings -->
+    <rect x="15" y="225" width="240" height="42" rx="8" fill="#130b1c" stroke="#3b1d4a" stroke-width="1"/>
+    <text x="25" y="242" font-family="'Inter', sans-serif" font-size="10" fill="#ffffff" font-weight="600">📍 Madhapur &amp; Banjara Hills Branches</text>
+    <text x="25" y="256" font-family="'Inter', sans-serif" font-size="9" fill="#a855f7">Open Mon-Sun: 9:30 AM – 9:00 PM</text>
+  </g>
+</svg>

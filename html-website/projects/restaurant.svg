@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="restBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c1106"/>
+      <stop offset="50%" stop-color="#2a180b"/>
+      <stop offset="100%" stop-color="#120a03"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="480" fill="url(#restBg)"/>
+
+  <!-- Browser Header -->
+  <rect x="30" y="25" width="740" height="430" rx="16" fill="#140b04" stroke="#431407" stroke-width="1.5"/>
+  <rect x="30" y="25" width="740" height="42" rx="16" fill="#0c0602"/>
+  <circle cx="55" cy="46" r="5.5" fill="#ef4444"/>
+  <circle cx="72" cy="46" r="5.5" fill="#f59e0b"/>
+  <circle cx="89" cy="46" r="5.5" fill="#10b981"/>
+  <rect x="180" y="34" width="440" height="24" rx="6" fill="#241408" stroke="#431407" stroke-width="1"/>
+  <text x="400" y="50" font-family="'Inter', sans-serif" font-size="11" fill="#fed7aa" text-anchor="middle" font-weight="500">🔒 https://saffronbistro-hyderabad.com</text>
+
+  <!-- Website Navbar -->
+  <rect x="30" y="67" width="740" height="52" fill="#1f1106" stroke="#2e1909" stroke-width="1"/>
+  <circle cx="65" cy="93" r="14" fill="url(#orangeGrad)"/>
+  <text x="65" y="98" font-size="14" text-anchor="middle">🍽️</text>
+  <text x="90" y="97" font-family="'Playfair Display', serif" font-size="16" fill="#ffffff" font-weight="800">SAFFRON <tspan fill="#f97316">BISTRO</tspan></text>
+  <text x="90" y="108" font-family="'Inter', sans-serif" font-size="8" fill="#fdba74" letter-spacing="1.5">AUTHENTIC HYDERABADI CUISINE &amp; CAFE</text>
+
+  <text x="430" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#fed7aa">Biryani Specials</text>
+  <text x="530" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#fed7aa">Tandoor &amp; Kebabs</text>
+  <text x="635" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#fed7aa">Desserts</text>
+
+  <rect x="675" y="80" width="80" height="26" rx="6" fill="url(#orangeGrad)"/>
+  <text x="715" y="97" font-family="'Inter', sans-serif" font-size="10" fill="#ffffff" font-weight="800" text-anchor="middle">Reserve</text>
+
+  <!-- Hero Content -->
+  <g transform="translate(60, 145)">
+    <rect x="0" y="0" width="190" height="22" rx="11" fill="#431407" stroke="#ea580c" stroke-width="1"/>
+    <text x="95" y="15" font-family="'Inter', sans-serif" font-size="9" fill="#ffedd5" font-weight="700" text-anchor="middle">🔥 HYDERABAD'S AWARD-WINNING TASTE</text>
+
+    <text x="0" y="48" font-family="'Playfair Display', serif" font-size="25" fill="#ffffff" font-weight="800">
+      Authentic Nizami Dum Biryani &amp;
+    </text>
+    <text x="0" y="76" font-family="'Playfair Display', serif" font-size="25" fill="#f97316" font-weight="800">
+      Fine Culinary Dining.
+    </text>
+
+    <text x="0" y="102" font-family="'Inter', sans-serif" font-size="11" fill="#fed7aa">
+      Slow-cooked dum mutton biryani, succulent chicken tikka,
+    </text>
+    <text x="0" y="118" font-family="'Inter', sans-serif" font-size="11" fill="#fed7aa">
+      and authentic royal shahi tukda prepared by master chefs.
+    </text>
+
+    <g transform="translate(0, 136)">
+      <rect x="0" y="0" width="150" height="38" rx="8" fill="url(#orangeGrad)"/>
+      <text x="75" y="24" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="800" text-anchor="middle">📖 VIEW FOOD MENU</text>
+
+      <rect x="160" y="0" width="140" height="38" rx="8" fill="#10b981"/>
+      <text x="230" y="24" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="800" text-anchor="middle">💬 BOOK TABLE WA</text>
+    </g>
+
+    <!-- 3 Menu Specials -->
+    <g transform="translate(0, 192)">
+      <rect x="0" y="0" width="105" height="92" rx="8" fill="#241408" stroke="#431407" stroke-width="1"/>
+      <text x="12" y="20" font-size="14">🍲</text>
+      <text x="12" y="38" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">Special Biryani</text>
+      <text x="12" y="52" font-family="'Inter', sans-serif" font-size="9" fill="#fb923c">Zafrani Mutton</text>
+      <text x="12" y="70" font-family="'Inter', sans-serif" font-size="12" fill="#fde047" font-weight="800">₹380</text>
+      <text x="12" y="82" font-family="'Inter', sans-serif" font-size="8" fill="#4ade80">Chef Signature</text>
+
+      <rect x="115" y="0" width="105" height="92" rx="8" fill="#241408" stroke="#431407" stroke-width="1"/>
+      <text x="127" y="20" font-size="14">🍢</text>
+      <text x="127" y="38" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">Galouti Kebab</text>
+      <text x="127" y="52" font-family="'Inter', sans-serif" font-size="9" fill="#fb923c">Melt-In-Mouth</text>
+      <text x="127" y="70" font-family="'Inter', sans-serif" font-size="12" fill="#fde047" font-weight="800">₹290</text>
+      <text x="127" y="82" font-family="'Inter', sans-serif" font-size="8" fill="#4ade80">Tandoor Hot</text>
+
+      <rect x="230" y="0" width="105" height="92" rx="8" fill="#241408" stroke="#431407" stroke-width="1"/>
+      <text x="242" y="20" font-size="14">🍮</text>
+      <text x="242" y="38" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">Double Ka Meetha</text>
+      <text x="242" y="52" font-family="'Inter', sans-serif" font-size="9" fill="#fb923c">Pure Ghee &amp; Kaju</text>
+      <text x="242" y="70" font-family="'Inter', sans-serif" font-size="12" fill="#fde047" font-weight="800">₹140</text>
+      <text x="242" y="82" font-family="'Inter', sans-serif" font-size="8" fill="#4ade80">Royal Dessert</text>
+    </g>
+  </g>
+
+  <!-- Right Visual: Food Presentation Card -->
+  <g transform="translate(470, 145)">
+    <rect x="0" y="0" width="270" height="280" rx="14" fill="#241408" stroke="#431407" stroke-width="1.5"/>
+    <!-- Food bowl graphic -->
+    <rect x="15" y="15" width="240" height="135" rx="10" fill="#381b0a"/>
+    <ellipse cx="135" cy="85" rx="65" ry="35" fill="#f97316" opacity="0.85"/>
+    <ellipse cx="135" cy="80" rx="55" ry="25" fill="#ea580c"/>
+    <circle cx="120" cy="78" r="8" fill="#fde047"/>
+    <circle cx="150" cy="82" r="6" fill="#fde047"/>
+    <text x="135" y="42" font-family="'Inter', sans-serif" font-size="11" fill="#ffedd5" font-weight="800" text-anchor="middle">FRESH CULINARY EXCELLENCE</text>
+
+    <!-- Table reservation card -->
+    <rect x="15" y="160" width="240" height="50" rx="8" fill="#140b04" stroke="#431407" stroke-width="1"/>
+    <text x="25" y="180" font-family="'Inter', sans-serif" font-size="10" fill="#f97316" font-weight="700">🍽️ Family AC Dining &amp; Rooftop Cafe</text>
+    <text x="25" y="196" font-family="'Inter', sans-serif" font-size="9" fill="#cbd5e1">Banjara Hills Rd No. 12 • Valet Parking Available</text>
+
+    <!-- WhatsApp Quick Order -->
+    <g transform="translate(15, 220)">
+      <rect x="0" y="0" width="240" height="38" rx="8" fill="#10b981"/>
+      <text x="120" y="24" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="800" text-anchor="middle">💬 ORDER VIA WHATSAPP (15% OFF)</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="taxiBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+    <linearGradient id="amberGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <linearGradient id="cardGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="480" fill="url(#taxiBg)"/>
+
+  <!-- Browser Header -->
+  <rect x="30" y="25" width="740" height="430" rx="16" fill="#0b1120" stroke="#334155" stroke-width="1.5"/>
+  <rect x="30" y="25" width="740" height="42" rx="16" fill="#060913"/>
+  <circle cx="55" cy="46" r="5.5" fill="#ef4444"/>
+  <circle cx="72" cy="46" r="5.5" fill="#f59e0b"/>
+  <circle cx="89" cy="46" r="5.5" fill="#10b981"/>
+  <rect x="180" y="34" width="440" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="400" y="50" font-family="'Inter', sans-serif" font-size="11" fill="#cbd5e1" text-anchor="middle" font-weight="500">🔒 https://royalcars-hyderabadtravels.in</text>
+
+  <!-- Website Navbar -->
+  <rect x="30" y="67" width="740" height="52" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  <!-- Car Travels Logo -->
+  <rect x="52" y="78" width="30" height="30" rx="8" fill="url(#amberGrad)"/>
+  <text x="67" y="99" font-family="'Inter', sans-serif" font-size="16" fill="#ffffff" font-weight="900" text-anchor="middle">🚕</text>
+  <text x="92" y="97" font-family="'Inter', sans-serif" font-size="15" fill="#ffffff" font-weight="800">ROYAL <tspan fill="#fbbf24">TRAVELS</tspan></text>
+  <text x="92" y="108" font-family="'Inter', sans-serif" font-size="8" fill="#94a3b8" letter-spacing="1.5">HYDERABAD CAR RENTALS &amp; TAXI</text>
+
+  <text x="420" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#cbd5e1">Airport Taxi</text>
+  <text x="500" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#cbd5e1">Outstation</text>
+  <text x="575" y="97" font-family="'Inter', sans-serif" font-size="11" fill="#cbd5e1">Local Packages</text>
+
+  <rect x="660" y="80" width="95" height="26" rx="6" fill="url(#amberGrad)"/>
+  <text x="707" y="97" font-family="'Inter', sans-serif" font-size="10" fill="#000000" font-weight="800" text-anchor="middle">Book Cab</text>
+
+  <!-- Hero Content -->
+  <g transform="translate(60, 145)">
+    <rect x="0" y="0" width="200" height="22" rx="11" fill="#451a03" stroke="#d97706" stroke-width="1"/>
+    <text x="100" y="15" font-family="'Inter', sans-serif" font-size="9" fill="#fde68a" font-weight="700" text-anchor="middle">⚡ NO CANCELLATION • ZERO SURGE</text>
+
+    <text x="0" y="48" font-family="'Inter', sans-serif" font-size="24" fill="#ffffff" font-weight="900">
+      Affordable Car Rentals &amp;
+    </text>
+    <text x="0" y="76" font-family="'Inter', sans-serif" font-size="24" fill="#fbbf24" font-weight="900">
+      Airport Taxi In Hyderabad.
+    </text>
+
+    <text x="0" y="102" font-family="'Inter', sans-serif" font-size="11" fill="#94a3b8">
+      Book Swift Dzire, Innova Crysta, Ertiga &amp; Tempo Travellers.
+    </text>
+    <text x="0" y="118" font-family="'Inter', sans-serif" font-size="11" fill="#94a3b8">
+      RGIA Rajiv Gandhi Airport transfer, Srisailam, Tirupati &amp; Vijayawada.
+    </text>
+
+    <g transform="translate(0, 136)">
+      <rect x="0" y="0" width="150" height="38" rx="8" fill="url(#amberGrad)"/>
+      <text x="75" y="24" font-family="'Inter', sans-serif" font-size="11" fill="#000000" font-weight="800" text-anchor="middle">🚕 INSTANT CAB QUOTE</text>
+
+      <rect x="160" y="0" width="140" height="38" rx="8" fill="#10b981"/>
+      <text x="230" y="24" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="800" text-anchor="middle">💬 WHATSAPP FARE</text>
+    </g>
+
+    <!-- Fleet cards -->
+    <g transform="translate(0, 192)">
+      <rect x="0" y="0" width="105" height="92" rx="8" fill="url(#cardGrad3)" stroke="#334155" stroke-width="1"/>
+      <text x="12" y="20" font-size="14">🚗</text>
+      <text x="12" y="38" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">Swift Dzire</text>
+      <text x="12" y="52" font-family="'Inter', sans-serif" font-size="9" fill="#94a3b8">Sedan (4+1 AC)</text>
+      <text x="12" y="70" font-family="'Inter', sans-serif" font-size="12" fill="#fbbf24" font-weight="800">₹12/km</text>
+      <text x="12" y="82" font-family="'Inter', sans-serif" font-size="8" fill="#22c55e">Airport: ₹999</text>
+
+      <rect x="115" y="0" width="105" height="92" rx="8" fill="url(#cardGrad3)" stroke="#334155" stroke-width="1"/>
+      <text x="127" y="20" font-size="14">🚙</text>
+      <text x="127" y="38" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">Innova Crysta</text>
+      <text x="127" y="52" font-family="'Inter', sans-serif" font-size="9" fill="#94a3b8">SUV (7+1 AC)</text>
+      <text x="127" y="70" font-family="'Inter', sans-serif" font-size="12" fill="#fbbf24" font-weight="800">₹18/km</text>
+      <text x="127" y="82" font-family="'Inter', sans-serif" font-size="8" fill="#22c55e">Airport: ₹1,699</text>
+
+      <rect x="230" y="0" width="105" height="92" rx="8" fill="url(#cardGrad3)" stroke="#334155" stroke-width="1"/>
+      <text x="242" y="20" font-size="14">🚐</text>
+      <text x="242" y="38" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700">Tempo 12-Seater</text>
+      <text x="242" y="52" font-family="'Inter', sans-serif" font-size="9" fill="#94a3b8">Group Tour</text>
+      <text x="242" y="70" font-family="'Inter', sans-serif" font-size="12" fill="#fbbf24" font-weight="800">₹24/km</text>
+      <text x="242" y="82" font-family="'Inter', sans-serif" font-size="8" fill="#22c55e">Outstation Trip</text>
+    </g>
+  </g>
+
+  <!-- Right Visual Mockup: Booking Form -->
+  <g transform="translate(470, 145)">
+    <rect x="0" y="0" width="270" height="280" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="15" y="15" width="240" height="32" rx="6" fill="#0f172a"/>
+    <text x="135" y="36" font-family="'Inter', sans-serif" font-size="11" fill="#ffffff" font-weight="700" text-anchor="middle">QUICK FARE ESTIMATOR</text>
+
+    <!-- Trip Type Tabs -->
+    <g transform="translate(15, 55)">
+      <rect x="0" y="0" width="75" height="22" rx="4" fill="#fbbf24"/>
+      <text x="37" y="15" font-family="'Inter', sans-serif" font-size="9" fill="#000000" font-weight="700" text-anchor="middle">Outstation</text>
+
+      <rect x="82" y="0" width="75" height="22" rx="4" fill="#0f172a"/>
+      <text x="119" y="15" font-family="'Inter', sans-serif" font-size="9" fill="#94a3b8" font-weight="600" text-anchor="middle">Local (8hr)</text>
+
+      <rect x="165" y="0" width="75" height="22" rx="4" fill="#0f172a"/>
+      <text x="202" y="15" font-family="'Inter', sans-serif" font-size="9" fill="#94a3b8" font-weight="600" text-anchor="middle">Airport Drop</text>
+    </g>
+
+    <!-- Form Inputs -->
+    <g transform="translate(15, 88)">
+      <rect x="0" y="0" width="240" height="28" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Inter', sans-serif" font-size="10" fill="#cbd5e1">📍 Pickup: Hyderabad / Secunderabad</text>
+
+      <rect x="0" y="36" width="240" height="28" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+      <text x="12" y="54" font-family="'Inter', sans-serif" font-size="10" fill="#cbd5e1">🏁 Drop: Srisailam / Vijayawada / RGIA</text>
+
+      <rect x="0" y="72" width="240" height="28" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+      <text x="12" y="90" font-family="'Inter', sans-serif" font-size="10" fill="#cbd5e1">📅 Date: Tomorrow, 6:00 AM</text>
+
+      <!-- Submit button -->
+      <rect x="0" y="110" width="240" height="34" rx="8" fill="url(#amberGrad)"/>
+      <text x="120" y="132" font-family="'Inter', sans-serif" font-size="11" fill="#000000" font-weight="800" text-anchor="middle">CHECK AVAILABILITY &amp; BEST RATE</text>
+    </g>
+
+    <!-- Trust banner -->
+    <rect x="15" y="240" width="240" height="26" rx="6" fill="#0f172a"/>
+    <text x="135" y="257" font-family="'Inter', sans-serif" font-size="9" fill="#22c55e" font-weight="600" text-anchor="middle">🛡️ 100% Verified Drivers • Sanitized Fleet</text>
+  </g>
+</svg>
